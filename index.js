@@ -5,6 +5,9 @@ const OUTER_R = 300;
 const INNER_R = 200;
 
 // Earth/Venus
+const VENUS_DAYS = 225;
+const EARTH_DAYS = 365;
+
 const OUTER_YEARS = 8;
 const INNER_YEARS = 13;
 
