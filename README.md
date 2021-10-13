@@ -1,6 +1,6 @@
 # Orbital Mandalas
 
-(https://marcmajcher.github.io/orbital-mandalas/)[See One]
+[See One](https://marcmajcher.github.io/orbital-mandalas/)
 
 ## Orbits in Earth Days
 
